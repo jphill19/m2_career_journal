@@ -5,7 +5,7 @@ At the end of each project (eval days are great for this), carefully consider an
 
 ## Set Up Instructions
 - Create your own document to use for this career journal - your own private gist, a google doc, or another document of your choice.
-- Copy/paste the prompts from this README into that document.  If you are using a gist, you'll want to copy/paste the raw markdown from this README.  You can see that by clicking on the README.md file to open it, then selecting `Code` to see the markdown.
+- Copy/paste the prompts below from this README into that document.  If you are using a gist, you'll want to copy/paste the raw markdown from this README.  You can see that by clicking on the README.md file to open it, then selecting `Code` to see the markdown.
 - After you've done that, please DM your instructors a link to your document. 
 
 ## Mod 1 Journal
