@@ -1,11 +1,12 @@
 # Mod 2 Career Journal
-The point of this career journal is to assist you in keeping track of the "story" of your Turing journey! When you start interviewing, writing your resume, and are fully on the job hunt, these details will be super handy for you to have. 
+You will use the prompts in this README to reflect on your Mod 2 projects.  The point of this career journal is to assist you in keeping track of the "story" of your Turing journey! When you start interviewing, writing your resume, and are fully on the job hunt, these details will be super handy for you to have. 
 
 At the end of each project (eval days are great for this), carefully consider and fill out each project's reflection questions below.
 
-You will use the prompts in this README to reflect on their Mod 2 projects.  You will need to copy the markdown of these prompts, by either creating your own private gist, or creating a google doc. Then paste the markdown into your own document for future editing.   
-
-After you've done that, please DM your instructors your newly-forked link. 
+## Set Up Instructions
+- Create your own document to use for this career journal - your own private gist, a google doc, or another document of your choice.
+- Copy/paste the prompts from this README into that document.  If you are using a gist, you'll want to copy/paste the raw markdown from this README.  You can see that by clicking on the README.md file to open it, then selecting `Code` to see the markdown.
+- After you've done that, please DM your instructors a link to your document. 
 
 ## Mod 1 Journal
 Paste the link to your Mod 1 Career Journal gist here: ___
