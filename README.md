@@ -9,19 +9,24 @@ At the end of each project (eval days are great for this), carefully consider an
 - After you've done that, please DM your instructors a link to your document. 
 
 ## Mod 1 Journal
-Paste the link to your Mod 1 Career Journal gist here: ___
+Paste the link to your Mod 1 Career Journal gist here: https://gist.github.com/jphill19/3122ce0d4bd1316279797880539d4343
 
 ## Solo Project
 
-Link to your project repo:
+Link to your project repo: https://github.com/jphill19/hang-in-there-boilerplate
 
 Link to your project board (if applicable)
 
 ### Solo Project Reflections
 
-1. At the beginning of the project, what part(s) of the project were you most nervous about? At the end, do you feel those concerns were justified? 
-2. Describe one thing you got stuck on during the project. Based on that experience, have you made/do you plan to make any specific changes to the way you prepare for the next project?
-3. List 2-3 bullet points about your process and/or accomplishments from working on this project (things you could highlight on your resume). 
+1. At the beginning of the project, what part(s) of the project were you most nervous about? At the end, do you feel those concerns were justified?
+   - Felt slightly nervous about creating draggable elements, because it was something I have not done before but now looking back at it, it was no where near as complicated as I thought it was.
+
+3. Describe one thing you got stuck on during the project. Based on that experience, have you made/do you plan to make any specific changes to the way you prepare for the next project?
+   - I got stuck on the dragging more than I should've had. The solution was to try my own way which worked great. I guess the idea of not sticking to an idea too much if it doens't seem to work is something I should follow.
+5. List 2-3 bullet points about your process and/or accomplishments from working on this project (things you could highlight on your resume).
+   - Being able to learn typescript and incorporate it in less than 2 days
+   - Being able to tackle a complex problem by following my own advice
 
 
 ---
