@@ -34,21 +34,28 @@ Link to your project board (if applicable)
 
 ## Paired Project
 
-Link to your project repo:
+Link to your project repo: https://github.com/jphill19/hang_in_there_be
 
-Link to your project board: 
+Link to your project board: https://github.com/users/jphill19/projects/1
 
-Link to your DTR:
+Link to your DTR: Since it was paired project, we talked about it so we could begin working on the code togeher
 
 ### Paired Project Reflections
 
-1. At the beginning of the project, what part(s) of the project were you most nervous about? At the end, do you feel those concerns were justified? 
-2. Reflect on a time you and your partner got stuck. What was your process like? How did you communicate? How did you get unstuck?  What were your key takeaways from that experience?
-3. Have you and your partner experienced any conflicts? What steps did you take to resolve it?
-4. List 2-3 bullet points about your process and/or accomplishments from working on this project (things you could highlight on your resume). 
-5. What did you enjoy in this project that surprised you? Does it make you want to explore anything further?
-6. What have you learned about yourself and your learning style from navigating pairing with a partner? 
-
+1. At the beginning of the project, what part(s) of the project were you most nervous about? At the end, do you feel those concerns were justified?
+   - At the start, I was pretty nervous about the MVC architecture since it was my first time working with a Rails app. I wasn’t used to separating logic between the controller and model, and that process felt a bit overwhelming at first. Looking back, I’d say the concern was definitely justified, but as I got deeper into the project, I started to see the logic behind it. Once I got the hang of how everything fits together, it made a lot more sense.
+3. Reflect on a time you and your partner got stuck. What was your process like? How did you communicate? How did you get unstuck?  What were your key takeaways from that experience?
+   - We challenged ourselves to handle multiple query parameters in our request, but it turned out to be more complicated than expected. After running into some issues, we did research and found the Rails built-in scope method, which helped simplify things. We spent time practicing with it and solidifying our understanding of class methods. Our process involved a lot of back-and-forth communication, sharing what we found, and testing different approaches until we got it right. The key takeaway was how valuable research and collaboration are when tackling unfamiliar concepts.
+5. Have you and your partner experienced any conflicts? What steps did you take to resolve it?
+   - Me and Melchor worked really well. The man works hard and is determine on achieving a task. I have nothing but respect for him
+7. List 2-3 bullet points about your process and/or accomplishments from working on this project (things you could highlight on your resume).
+   - Quickly adapted to new technology, including Ruby on Rails, demonstrating the ability to learn and apply unfamiliar frameworks effectively.
+   - Gained confidence with JSON architecture, specifically in structuring responses for both errors and successful outcomes (happy paths).
+   - Developed strong problem-solving skills by facing challenges without immediate answers, utilizing research and persistence to find solutions.
+9. What did you enjoy in this project that surprised you? Does it make you want to explore anything further?
+   - I was pleasantly surprised by how much I enjoyed collaborating with someone who was equally invested and eager to learn. It makes me curious about what it would be like to work in a larger team with a fun and energetic culture.
+11. What have you learned about yourself and your learning style from navigating pairing with a partner?
+   - I've learned that I gain a lot from teaching. While working with scopes, I not only had to navigate the problem but also explain it to my partner, which solidified my understanding much more than just practicing alone."
 ---
 
 
