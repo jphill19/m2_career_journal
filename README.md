@@ -62,22 +62,29 @@ Link to your DTR: Since it was paired project, we talked about it so we could be
 ## Group Project
 
 Link to your project repo:
-
-Link to your project board: 
-
+   - https://github.com/bwillett2003/little_shop
+   - https://github.com/James-Cochran/Little_Shop_FE
+Link to your project board:
+   - https://github.com/bwillett2003/little_shop
+   - https://github.com/users/James-Cochran/projects/2
 Link to your group's DTR:
-
-
+- https://docs.google.com/document/d/1FBa_7Zxl2ZlSZISbG9StJB-M6pU3jZ9zVSaX_3kiu5g/edit
 ### Group Project Reflections
    
     
-1. At the beginning of the project, what part(s) of the project were you most nervous about? At the end, do you feel those concerns were justified? 
-2. Reflect on a time you and your partner got stuck. What was your process like? How did you communicate? How did you get unstuck?  What were your key takeaways from that experience?
-3. Have you and your teammates experienced any conflict? What steps did you take to resolve it?
-4. List 2-3 bullet points about your process and/or accomplishments from working on this project (things you could highlight on your resume). 
-5. What did you enjoy in this project that surprised you? Does it make you want to explore anything further?
-6. What have you learned about yourself and your learning style from navigating working with a larger team? 
-   
+1. At the beginning of the project, what part(s) of the project were you most nervous about? At the end, do you feel those concerns were justified?
+   -  I was most nervous about setting up a process for delegating tasks to everyone and ensuring we could all complete our work on time. I generally prefer asynchronous work, as I find it challenging to be productive while working live with others
+3. Reflect on a time you and your partner got stuck. What was your process like? How did you communicate? How did you get unstuck?  What were your key takeaways from that experience?
+   - A member of my group couldn't solve an issue and resorted to using ChatGPT to generate a solution. During the code review, they struggled to explain what the submitted code did. At that point, I realized that having code we can't fully understand is not beneficial for the project, so we declined the pull request. We went back to the drawing board and researched the JSON app serializer documentation to learn how to pass optional arguments. We found similar code to what ChatGPT had generated and focused on understanding how it functioned. This experience taught me the importance of fully grasping the code we include in our project.
+5. Have you and your teammates experienced any conflict? What steps did you take to resolve it?
+   - The situation described in question 3 highlights a conflict we experienced. To resolve it, we chose not to accept the code and took it upon ourselves to research and understand the solution fully before implementing it. While I was upset, I didn't lash out. I’m sure I came across as frustrated, but I focused on controlling my emotions and gave feedback, advocating for only using code we fully understand.
+7. List 2-3 bullet points about your process and/or accomplishments from working on this project (things you could highlight on your resume).
+   - Leadership: I step up when teammates feel overwhelmed, taking charge to break down complex problems and help guide the team through uncertainty.
+   - Technical Problem-Solving: While I may not always have immediate answers, I’m confident in my ability to figure things out. I’ve consistently jumped in to help debug technical issues and discovered solutions.
+9. What did you enjoy in this project that surprised you? Does it make you want to explore anything further?
+   - I really enjoyed working on the front end. I love the creativity that is involved ind designing a good front end, from artistic to UX design, it's very captivating and it's exactly why I wanted to become a developer.
+11. What have you learned about yourself and your learning style from navigating working with a larger team?
+   - I’ve learned the importance of establishing boundaries. For much of the project, I found myself helping others troubleshoot their tasks, and while I didn’t mind sacrificing for the sake of the team, it began to take a toll on my personal time. Moving forward, I realize I need to set stronger boundaries to balance supporting the team and maintaining my own productivity, especially in a real-world setting.
     
 ---
 
