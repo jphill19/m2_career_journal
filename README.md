@@ -91,12 +91,23 @@ Link to your group's DTR:
 ## Final Project
 
 Link to your project repo:
+   - https://github.com/jphill19/little-shop-be-final-starter
+   - https://github.com/jphill19/little-shop-fe-final-starter
 
 Link to your project board (if applicable)
 
 ### Final Project Reflections
 
-1. At the beginning of the project, what part(s) of the project were you most nervous about? At the end, do you feel those concerns were justified? 
-2. Describe one thing you got stuck on during the project. Based on that experience, have you made/do you plan to make any specific changes to the way you prepare for your future projects (intermission work, next inning's projects, etc)?
-3. List 2-3 bullet points about your process and/or accomplishments from working on this project (things you could highlight on your resume). 
+1. At the beginning of the project, what part(s) of the project were you most nervous about? At the end, do you feel those concerns were justified?
+   - Honestly, I was nervous about the scale of the project. There were a lot of tasks to complete and very little time, so I feared I wouldn’t be able to finish everything. In the end, I not only completed the project a day early but also managed to implement all of the front-end extensions.
+3. Describe one thing you got stuck on during the project. Based on that experience, have you made/do you plan to make any specific changes to the way you prepare for your future projects (intermission work, next inning's projects, etc)?
+   - I got stuck on creating validations for Coupons to ensure they were only applied to the correct merchant's items. Initially, this seemed simple, but the relationships were more complex:
+     - An` Item `belongs to a `Merchant` and has many `InvoiceItems`.
+     - A `Coupon` belongs to a `Merchant` and has many `Invoices`.
+     - An `Invoice` belongs to a `Coupon` and a `Customer `and has many `InvoiceItems.`
+   - The challenge was figuring out where to place the validation, as there was almost a circular dependency in the relationships. I nearly got it right by creating logic to throw errors, but it didn’t fully prevent coupons from being applied to `Invoices` that contain `InvoiceItems` that didn't belong to the correct merchant. In the end, the validation needed to be on the `InvoiceItem `model since it’s the final part of the chain. Moving forward, I’ll be more mindful of this logical flow to create better validations.
+
+5. List 2-3 bullet points about your process and/or accomplishments from working on this project (things you could highlight on your resume).
+   - Developed complex Active Record queries
+   - Implemented SOA (Service-Oriented Architecture) design
 
